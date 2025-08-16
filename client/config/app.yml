@@ -1,0 +1,6 @@
+client:
+  host: 127.0.0.1
+  port: 8081
+  clientId: CLIENTID1
+  packSize: 1440 # UDP packet size(including header)
+  holeInterval: 30s
